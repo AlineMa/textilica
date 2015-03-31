@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>DIGIT_ZERO</title>
+<unicode>30</unicode>
+<advanceWidth>1000.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="0.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="0.0" y="150.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="600.0" y="750.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="750.0" y="750.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="750.0" y="600.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="150.0" y="0.0"/>
+</contourPoint>
+</contour>
+</body>
+</glyphElement>
